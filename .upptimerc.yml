@@ -8,11 +8,11 @@ sites:
   - name: Power Cloud Platform
     url: https://app.cyscale.com
   - name: Cyscale API
-    url: https://api.cyscale.com
+    url: https://api.cyscale.com/public/status
   - name: GraphQL API
-    url: https://graphql.cyscale.com
+    url: https://graphql.cyscale.com/graphql
   - name: Authentication API
-    url: https://graphql.cyscale.com
+    url: https://auth.cyscale.com/public/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
