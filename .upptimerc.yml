@@ -32,7 +32,7 @@ status-website:
   logoUrl: https://static-cyscale-com.s3.amazonaws.com/img/cyscale_logo.svg
   name: Cyscale uptime
   introTitle: "**Cyscale** - helping companies embrace their digital future by protecting apps & data in the cloud."
-  introMessage: **Try Cyscale Cloud Security for free at [cyscale.com](https://cyscale.com)**
+  introMessage: "**Try Cyscale Cloud Security for free at [cyscale.com](https://cyscale.com)**"
   navbar:
     - title: cyscale.com
       href: https://cyscale.com
