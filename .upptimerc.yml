@@ -9,10 +9,20 @@ sites:
     url: https://app.cyscale.com
   - name: Cyscale API
     url: https://api.cyscale.com/public/status
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: GraphQL API
     url: https://graphql.cyscale.com/graphql
+    expectedStatusCodes:
+      - 400
+      - 401
   - name: Authentication API
     url: https://auth.cyscale.com/public/status
+    expectedStatusCodes:
+      - 200
+      - 401
+      - 405
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,10 +32,7 @@ status-website:
   logoUrl: https://static-cyscale-com.s3.amazonaws.com/img/cyscale_logo.svg
   name: Cyscale uptime
   introTitle: "**Cyscale** - helping companies embrace their digital future by protecting apps & data in the cloud."
-  introMessage: |
-    This is the **real-time** status page for Cyscale. 
-    
-    **Try Cyscale Cloud Security for free: <https://cyscale.com>**
+  introMessage: **Try Cyscale Cloud Security for free at [cyscale.com](https://cyscale.com)**
   navbar:
     - title: cyscale.com
       href: https://cyscale.com
