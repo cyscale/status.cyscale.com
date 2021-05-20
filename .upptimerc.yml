@@ -5,20 +5,36 @@ repo: status.cyscale.com # The name of this repository
 sites:
   - name: Cyscale Website
     url: https://cyscale.com
+    assignees:
+      - gceico
+      - ocical
   - name: Power Cloud Platform
     url: https://app.cyscale.com
+    assignees:
+      - manuelamaria
+      - gceico
+      - ocical
   - name: Cyscale API
     url: https://api.cyscale.com/public/status
+    assignees:
+      - andreimilas
+      - ocical
     expectedStatusCodes:
       - 200
       - 401
   - name: GraphQL API
     url: https://graphql.cyscale.com/graphql
+    assignees:
+      - manuelamaria
+      - gceico
+      - ocical
     expectedStatusCodes:
       - 400
       - 401
   - name: Authentication API
     url: https://auth.cyscale.com/public/status
+    assignees:
+      - ocical
     expectedStatusCodes:
       - 200
       - 401
