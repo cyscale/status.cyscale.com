@@ -1,4 +1,4 @@
-# [![Cyscale](https://static-cyscale-com.s3.amazonaws.com/img/cyscale_logo.svg)](https://status.cyscale.com)
+# [📈 Live Status](https://status.cyscale.com): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Cyscale - Cloud Security](https://cyscale.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -29,5 +29,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Cyscale](http://cyscale.com)
+- Code: [MIT](./LICENSE) © [Cyscale](https://cyscale.com)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
