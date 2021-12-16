@@ -1,7 +1,7 @@
 url: https://api.cyscale.com/public/status
-status: down
-code: 521
-responseTime: 6246
-lastUpdated: 2021-12-16T09:19:55.565Z
+status: up
+code: 200
+responseTime: 7272
+lastUpdated: 2021-12-16T10:57:20.489Z
 startTime: Tue May 11 2021 20:41:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
