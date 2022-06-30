@@ -1,7 +1,7 @@
 url: https://auth.cyscale.com/public/status
-status: down
-code: 403
-responseTime: 112
-lastUpdated: 2022-06-30T09:53:41.942Z
+status: up
+code: 200
+responseTime: 467
+lastUpdated: 2022-06-30T09:59:40.558Z
 startTime: Tue May 11 2021 20:41:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
