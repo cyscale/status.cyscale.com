@@ -4,9 +4,9 @@
     "url": "https://cyscale.com",
     "icon": "https://favicons.githubusercontent.com/cyscale.com",
     "slug": "cyscale-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 189,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2022-06-30": 81,
       "2022-06-29": 21,
       "2022-06-21": 43
