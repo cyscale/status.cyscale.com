@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 303,
-    "timeDay": 141,
-    "timeWeek": 162,
-    "timeMonth": 162,
-    "timeYear": 289,
-    "dailyMinutesDown": {
-      "2022-06-30": 81
-    }
+    "timeDay": 134,
+    "timeWeek": 165,
+    "timeMonth": 157,
+    "timeYear": 292,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Power Cloud Platform",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 430,
-    "timeDay": 286,
-    "timeWeek": 398,
-    "timeMonth": 400,
-    "timeYear": 429,
-    "dailyMinutesDown": {
-      "2022-06-30": 81
-    }
+    "timeDay": 340,
+    "timeWeek": 400,
+    "timeMonth": 395,
+    "timeYear": 432,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cyscale API",
@@ -51,14 +47,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 446,
-    "timeDay": 342,
-    "timeWeek": 398,
-    "timeMonth": 401,
-    "timeYear": 442,
+    "timeDay": 350,
+    "timeWeek": 401,
+    "timeMonth": 397,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2022-11-24": 98,
-      "2022-10-10": 16,
-      "2022-06-30": 81
+      "2022-10-10": 16
     }
   },
   {
@@ -74,12 +69,10 @@
     "uptimeYear": "99.98%",
     "time": 465,
     "timeDay": 342,
-    "timeWeek": 393,
-    "timeMonth": 397,
-    "timeYear": 425,
-    "dailyMinutesDown": {
-      "2022-06-30": 81
-    }
+    "timeWeek": 402,
+    "timeMonth": 392,
+    "timeYear": 429,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Authentication API",
@@ -93,12 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 441,
-    "timeDay": 344,
-    "timeWeek": 394,
-    "timeMonth": 396,
-    "timeYear": 442,
-    "dailyMinutesDown": {
-      "2022-06-30": 81
-    }
+    "timeDay": 324,
+    "timeWeek": 400,
+    "timeMonth": 391,
+    "timeYear": 446,
+    "dailyMinutesDown": {}
   }
 ]
