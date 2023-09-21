@@ -1,7 +1,7 @@
 url: https://app.cyscale.com
-status: down
-code: 502
-responseTime: 68
-lastUpdated: 2023-09-21T23:43:33.981Z
+status: up
+code: 200
+responseTime: 487
+lastUpdated: 2023-09-21T23:49:27.483Z
 startTime: 2021-05-11T20:41:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
