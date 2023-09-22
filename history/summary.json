@@ -24,18 +24,16 @@
     "slug": "power-cloud-platform",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
     "timeDay": 352,
     "timeWeek": 420,
     "timeMonth": 416,
     "timeYear": 435,
-    "dailyMinutesDown": {
-      "2023-09-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cyscale API",
