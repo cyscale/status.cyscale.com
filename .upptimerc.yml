@@ -8,14 +8,14 @@ sites:
     assignees:
       - gceico
       - ocical
-  - name: Power Cloud Platform
+  - name: Cloud Platform
     url: https://app.cyscale.com
     assignees:
       - manuelamaria
       - gceico
       - ocical
   - name: Cyscale API
-    url: https://api.cyscale.com/public/status
+    url: https://app.cyscale.com/public/status
     assignees:
       - andreimilas
       - ocical
@@ -23,7 +23,7 @@ sites:
       - 200
       - 401
   - name: GraphQL API
-    url: https://graphql.cyscale.com/graphql
+    url: https://app.cyscale.com/graphql
     assignees:
       - manuelamaria
       - gceico
