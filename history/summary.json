@@ -24,18 +24,16 @@
     "slug": "power-cloud-platform",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
     "timeDay": 416,
     "timeWeek": 426,
     "timeMonth": 410,
     "timeYear": 430,
-    "dailyMinutesDown": {
-      "2023-12-13": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cyscale API",
@@ -44,17 +42,17 @@
     "slug": "cyscale-api",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 441,
     "timeDay": 340,
     "timeWeek": 416,
     "timeMonth": 410,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 59
     }
   },
   {
@@ -62,9 +60,9 @@
     "url": "https://graphql.cyscale.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/graphql.cyscale.com.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +71,9 @@
     "timeWeek": 431,
     "timeMonth": 412,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-13": 0
+    }
   },
   {
     "name": "Authentication API",
