@@ -22,19 +22,19 @@
     "url": "https://app.cyscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "power-cloud-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 460,
-    "timeWeek": 438,
-    "timeMonth": 413,
+    "timeDay": 416,
+    "timeWeek": 426,
+    "timeMonth": 410,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 8
     }
   },
   {
@@ -42,18 +42,20 @@
     "url": "https://api.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.cyscale.com.ico",
     "slug": "cyscale-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 366,
-    "timeWeek": 431,
-    "timeMonth": 413,
+    "time": 441,
+    "timeDay": 340,
+    "timeWeek": 416,
+    "timeMonth": 410,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-13": 0
+    }
   },
   {
     "name": "GraphQL API",
