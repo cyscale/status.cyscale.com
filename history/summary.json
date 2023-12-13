@@ -22,18 +22,20 @@
     "url": "https://app.cyscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "power-cloud-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 395,
-    "timeWeek": 426,
-    "timeMonth": 409,
+    "timeDay": 460,
+    "timeWeek": 438,
+    "timeMonth": 413,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-13": 0
+    }
   },
   {
     "name": "Cyscale API",
