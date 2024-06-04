@@ -60,18 +60,20 @@
     "url": "https://app.cyscale.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 78,
-    "timeWeek": 94,
-    "timeMonth": 95,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "timeDay": 109,
+    "timeWeek": 100,
+    "timeMonth": 96,
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2024-06-04": 0
+    }
   },
   {
     "name": "Authentication API",
