@@ -4,18 +4,20 @@
     "url": "https://cyscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/cyscale.com.ico",
     "slug": "cyscale-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 228,
-    "timeWeek": 175,
-    "timeMonth": 192,
+    "timeDay": 207,
+    "timeWeek": 176,
+    "timeMonth": 196,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-19": 0
+    }
   },
   {
     "name": "Cloud Platform",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 509,
-    "timeWeek": 398,
-    "timeMonth": 383,
+    "timeDay": 334,
+    "timeWeek": 377,
+    "timeMonth": 376,
     "timeYear": 377,
     "dailyMinutesDown": {}
   },
@@ -47,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 281,
-    "timeDay": 137,
-    "timeWeek": 104,
-    "timeMonth": 100,
-    "timeYear": 230,
+    "timeDay": 91,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 229,
     "dailyMinutesDown": {
       "2023-12-13": 63
     }
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 139,
-    "timeWeek": 105,
-    "timeMonth": 101,
-    "timeYear": 227,
+    "time": 276,
+    "timeDay": 90,
+    "timeWeek": 98,
+    "timeMonth": 99,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -85,10 +87,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 396,
-    "timeDay": 524,
-    "timeWeek": 411,
-    "timeMonth": 381,
-    "timeYear": 388,
+    "timeDay": 344,
+    "timeWeek": 387,
+    "timeMonth": 375,
+    "timeYear": 387,
     "dailyMinutesDown": {}
   }
 ]
