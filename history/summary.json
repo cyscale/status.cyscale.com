@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 146,
-    "timeWeek": 155,
-    "timeMonth": 182,
-    "timeYear": 179,
+    "timeDay": 275,
+    "timeWeek": 171,
+    "timeMonth": 185,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2024-07-19": 27
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 379,
-    "timeDay": 343,
-    "timeWeek": 380,
-    "timeMonth": 391,
+    "timeDay": 529,
+    "timeWeek": 403,
+    "timeMonth": 397,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 266,
-    "timeDay": 79,
-    "timeWeek": 91,
-    "timeMonth": 98,
+    "time": 265,
+    "timeDay": 150,
+    "timeWeek": 101,
+    "timeMonth": 100,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-12-13": 63
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "graph-ql-api",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 84,
-    "timeWeek": 93,
-    "timeMonth": 103,
-    "timeYear": 209,
+    "time": 261,
+    "timeDay": 152,
+    "timeWeek": 103,
+    "timeMonth": 105,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 375,
-    "timeWeek": 367,
-    "timeMonth": 382,
+    "timeDay": 481,
+    "timeWeek": 393,
+    "timeMonth": 388,
     "timeYear": 386,
     "dailyMinutesDown": {}
   }
