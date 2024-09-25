@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 142,
-    "timeWeek": 166,
+    "timeDay": 143,
+    "timeWeek": 151,
     "timeMonth": 181,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 300,
-    "timeWeek": 394,
-    "timeMonth": 388,
+    "timeDay": 342,
+    "timeWeek": 374,
+    "timeMonth": 389,
     "timeYear": 381,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 238,
-    "timeDay": 75,
-    "timeWeek": 103,
+    "time": 237,
+    "timeDay": 86,
+    "timeWeek": 95,
     "timeMonth": 98,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2023-12-13": 63
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 74,
-    "timeWeek": 103,
+    "time": 234,
+    "timeDay": 87,
+    "timeWeek": 95,
     "timeMonth": 99,
-    "timeYear": 171,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.cyscale.com.ico",
     "slug": "authentication-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 324,
-    "timeWeek": 398,
+    "timeDay": 339,
+    "timeWeek": 371,
     "timeMonth": 388,
-    "timeYear": 384,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   }
 ]
