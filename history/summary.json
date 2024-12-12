@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 220,
-    "timeWeek": 201,
-    "timeMonth": 215,
+    "timeDay": 312,
+    "timeWeek": 223,
+    "timeMonth": 220,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2024-07-19": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 316,
-    "timeWeek": 392,
-    "timeMonth": 515,
-    "timeYear": 392,
+    "time": 391,
+    "timeDay": 352,
+    "timeWeek": 395,
+    "timeMonth": 514,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -48,14 +48,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 86,
-    "timeWeek": 102,
-    "timeMonth": 101,
-    "timeYear": 101,
-    "dailyMinutesDown": {
-      "2023-12-13": 63
-    }
+    "time": 186,
+    "timeDay": 75,
+    "timeWeek": 101,
+    "timeMonth": 100,
+    "timeYear": 100,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GraphQL API",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 88,
-    "timeWeek": 106,
+    "time": 184,
+    "timeDay": 80,
+    "timeWeek": 104,
     "timeMonth": 103,
-    "timeYear": 103,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 347,
-    "timeWeek": 372,
-    "timeMonth": 390,
+    "timeDay": 365,
+    "timeWeek": 378,
+    "timeMonth": 389,
     "timeYear": 376,
     "dailyMinutesDown": {}
   }
