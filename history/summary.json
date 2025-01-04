@@ -42,18 +42,20 @@
     "url": "https://app.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cyscale-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 76,
-    "timeWeek": 104,
+    "time": 170,
+    "timeDay": 84,
+    "timeWeek": 103,
     "timeMonth": 91,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "GraphQL API",
