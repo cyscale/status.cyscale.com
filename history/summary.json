@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 182,
-    "timeDay": 214,
-    "timeWeek": 172,
-    "timeMonth": 189,
-    "timeYear": 185,
+    "timeDay": 393,
+    "timeWeek": 213,
+    "timeMonth": 197,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2024-07-19": 27
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 388,
-    "timeWeek": 392,
-    "timeMonth": 372,
-    "timeYear": 392,
+    "timeDay": 467,
+    "timeWeek": 419,
+    "timeMonth": 376,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +44,16 @@
     "slug": "cyscale-api",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 94,
-    "timeWeek": 102,
-    "timeMonth": 92,
-    "timeYear": 98,
-    "dailyMinutesDown": {
-      "2025-01-04": 7
-    }
+    "time": 167,
+    "timeDay": 104,
+    "timeWeek": 107,
+    "timeMonth": 93,
+    "timeYear": 99,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GraphQL API",
@@ -68,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 79,
-    "timeWeek": 107,
-    "timeMonth": 94,
+    "time": 168,
+    "timeDay": 125,
+    "timeWeek": 113,
+    "timeMonth": 95,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -87,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 332,
-    "timeWeek": 387,
-    "timeMonth": 359,
-    "timeYear": 376,
+    "timeDay": 464,
+    "timeWeek": 417,
+    "timeMonth": 363,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   }
 ]
