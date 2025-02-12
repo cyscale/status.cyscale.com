@@ -60,19 +60,19 @@
     "url": "https://app.cyscale.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "graph-ql-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 77,
-    "timeWeek": 95,
-    "timeMonth": 95,
+    "time": 142,
+    "timeDay": 99,
+    "timeWeek": 100,
+    "timeMonth": 97,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 6
     }
   },
   {
