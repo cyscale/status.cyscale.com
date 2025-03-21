@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 384,
-    "timeWeek": 240,
-    "timeMonth": 226,
+    "time": 189,
+    "timeDay": 481,
+    "timeWeek": 270,
+    "timeMonth": 235,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2024-07-19": 27
@@ -24,36 +24,40 @@
     "url": "https://app.cyscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cloud-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 456,
-    "timeWeek": 430,
-    "timeMonth": 408,
-    "timeYear": 393,
-    "dailyMinutesDown": {}
+    "timeDay": 559,
+    "timeWeek": 434,
+    "timeMonth": 410,
+    "timeYear": 394,
+    "dailyMinutesDown": {
+      "2025-03-21": 1
+    }
   },
   {
     "name": "Cyscale API",
     "url": "https://app.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cyscale-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 118,
-    "timeWeek": 124,
-    "timeMonth": 108,
+    "time": 118,
+    "timeDay": 120,
+    "timeWeek": 110,
+    "timeMonth": 107,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-21": 1
+    }
   },
   {
     "name": "GraphQL API",
@@ -67,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 117,
-    "timeWeek": 115,
+    "timeDay": 121,
+    "timeWeek": 111,
     "timeMonth": 107,
     "timeYear": 100,
     "dailyMinutesDown": {}
@@ -85,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 380,
-    "timeDay": 440,
-    "timeWeek": 424,
-    "timeMonth": 403,
+    "timeDay": 434,
+    "timeWeek": 414,
+    "timeMonth": 401,
     "timeYear": 380,
     "dailyMinutesDown": {}
   }
