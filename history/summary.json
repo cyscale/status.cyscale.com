@@ -24,10 +24,10 @@
     "url": "https://app.cyscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cloud-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
@@ -35,17 +35,19 @@
     "timeWeek": 394,
     "timeMonth": 386,
     "timeYear": 401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 2
+    }
   },
   {
     "name": "Cyscale API",
     "url": "https://app.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cyscale-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
@@ -53,17 +55,19 @@
     "timeWeek": 95,
     "timeMonth": 93,
     "timeYear": 96,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 1
+    }
   },
   {
     "name": "GraphQL API",
     "url": "https://app.cyscale.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
@@ -71,16 +75,18 @@
     "timeWeek": 96,
     "timeMonth": 94,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 1
+    }
   },
   {
     "name": "Authentication API",
     "url": "https://auth.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cyscale.com.ico",
     "slug": "authentication-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +95,8 @@
     "timeWeek": 393,
     "timeMonth": 387,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 0
+    }
   }
 ]
