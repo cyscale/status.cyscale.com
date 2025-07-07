@@ -44,19 +44,19 @@
     "url": "https://app.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cyscale-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "79.07%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "76.14%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.93%",
     "time": 97,
-    "timeDay": 88,
+    "timeDay": 91,
     "timeWeek": 95,
     "timeMonth": 93,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-07-07": 301
+      "2025-07-07": 344
     }
   },
   {
