@@ -6,18 +6,16 @@
     "slug": "cyscale-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 185,
-    "timeWeek": 279,
+    "time": 210,
+    "timeDay": 227,
+    "timeWeek": 272,
     "timeMonth": 302,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-09-09": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Platform",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 410,
-    "timeDay": 370,
-    "timeWeek": 406,
-    "timeMonth": 569,
+    "timeDay": 490,
+    "timeWeek": 417,
+    "timeMonth": 571,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2025-07-07": 302
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 97,
-    "timeDay": 72,
-    "timeWeek": 99,
-    "timeMonth": 99,
+    "timeDay": 141,
+    "timeWeek": 104,
+    "timeMonth": 100,
     "timeYear": 96,
     "dailyMinutesDown": {
       "2025-07-07": 344
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 99,
-    "timeDay": 72,
-    "timeWeek": 98,
-    "timeMonth": 99,
+    "timeDay": 141,
+    "timeWeek": 104,
+    "timeMonth": 101,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2025-07-07": 301
@@ -90,10 +88,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 385,
-    "timeDay": 318,
-    "timeWeek": 441,
-    "timeMonth": 413,
+    "time": 386,
+    "timeDay": 479,
+    "timeWeek": 451,
+    "timeMonth": 415,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2025-07-07": 300
