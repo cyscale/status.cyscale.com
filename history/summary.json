@@ -6,17 +6,17 @@
     "slug": "cyscale-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 242,
-    "timeWeek": 196,
-    "timeMonth": 227,
+    "timeDay": 238,
+    "timeWeek": 201,
+    "timeMonth": 228,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-11-12": 0
+      "2025-11-12": 9
     }
   },
   {
