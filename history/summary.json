@@ -25,10 +25,10 @@
     "url": "https://app.cyscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cloud-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 426,
@@ -37,6 +37,7 @@
     "timeMonth": 462,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2026-02-15": 1,
       "2025-07-07": 302
     }
   },
@@ -45,10 +46,10 @@
     "url": "https://app.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cyscale-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 98,
@@ -57,6 +58,7 @@
     "timeMonth": 104,
     "timeYear": 99,
     "dailyMinutesDown": {
+      "2026-02-15": 1,
       "2025-07-07": 344
     }
   },
@@ -65,10 +67,10 @@
     "url": "https://app.cyscale.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 100,
@@ -77,6 +79,7 @@
     "timeMonth": 105,
     "timeYear": 100,
     "dailyMinutesDown": {
+      "2026-02-15": 1,
       "2025-07-07": 301
     }
   },
@@ -85,9 +88,9 @@
     "url": "https://auth.cyscale.com/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cyscale.com.ico",
     "slug": "authentication-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -97,6 +100,7 @@
     "timeMonth": 416,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2026-02-15": 0,
       "2025-10-03": 18,
       "2025-07-07": 300
     }
