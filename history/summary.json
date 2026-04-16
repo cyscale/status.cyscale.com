@@ -4,9 +4,9 @@
     "url": "https://cyscale.com",
     "icon": "https://icons.duckduckgo.com/ip3/cyscale.com.ico",
     "slug": "cyscale-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 257,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2026-04-16": 0,
       "2026-03-25": 21,
       "2026-02-12": 26,
       "2025-11-18": 136
