@@ -1,7 +1,7 @@
 url: https://app.cyscale.com/graphql
-status: up
-code: 400
-responseTime: 300
-lastUpdated: 2026-05-14T23:20:32.065Z
+status: down
+code: 404
+responseTime: 239
+lastUpdated: 2026-05-15T22:08:29.695Z
 startTime: 2021-05-11T20:41:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
