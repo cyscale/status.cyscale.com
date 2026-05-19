@@ -16,6 +16,9 @@ sites:
       - ocical
   - name: Cyscale API
     url: https://app.cyscale.com/public/status
+    headers:
+      - "Accept: application/json"
+      - "User-Agent: cyscale-status-bot"
     assignees:
       - andreimilas
       - ocical
@@ -62,10 +65,10 @@ commitMessages:
   commitAuthorEmail: "developers@cyscale.com"
 
 workflowSchedule:
-  graphs: "0 0 * * *"
+  graphs: "17 * * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
+  staticSite: "27 * * * *"
+  summary: "7 * * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
