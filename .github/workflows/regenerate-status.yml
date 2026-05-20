@@ -38,22 +38,6 @@ jobs:
         env:
           GH_PAT: ${{ secrets.CYSCALE_BOT_PAT || secrets.GH_PAT || github.token }}
 
-      - name: Apply false-positive correction
-        run: node scripts/correct-cyscale-api-uptime.js
-
-      - name: Commit correction
-        run: |
-          if git diff --quiet; then
-            echo "No correction needed"
-            exit 0
-          fi
-
-          git config user.name "cyscale-bot"
-          git config user.email "developers@cyscale.com"
-          git add README.md history/summary.json api/cyscale-api/uptime*.json
-          git commit -m ":card_file_box: Correct Cyscale API false-positive uptime [skip ci]"
-          git push
-
       - name: Generate site
         uses: upptime/uptime-monitor@v1.41.3
         with:
