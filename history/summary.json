@@ -30,19 +30,20 @@
     "slug": "cloud-platform",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.92%",
-    "time": 429,
-    "timeDay": 397,
+    "time": 430,
+    "timeDay": 411,
     "timeWeek": 423,
     "timeMonth": 414,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-07-07": 302,
       "2026-02-15": 26,
-      "2026-05-15": 67
+      "2026-05-15": 67,
+      "2026-06-30": 32
     }
   },
   {
@@ -52,22 +53,23 @@
     "slug": "cyscale-api",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.75%",
-    "time": 161,
-    "timeDay": 277,
-    "timeWeek": 319,
-    "timeMonth": 541,
-    "timeYear": 182,
+    "time": 162,
+    "timeDay": 389,
+    "timeWeek": 342,
+    "timeMonth": 540,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2025-07-07": 344,
       "2026-02-15": 26,
       "2026-05-15": 66,
       "2026-05-16": 241,
       "2026-05-17": 563,
-      "2026-06-03": 48
+      "2026-06-03": 48,
+      "2026-06-30": 27
     }
   },
   {
@@ -77,19 +79,20 @@
     "slug": "graph-ql-api",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.92%",
     "time": 128,
-    "timeDay": 286,
-    "timeWeek": 316,
-    "timeMonth": 334,
-    "timeYear": 138,
+    "timeDay": 328,
+    "timeWeek": 323,
+    "timeMonth": 336,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2025-07-07": 301,
       "2026-02-18": 22,
-      "2026-05-15": 66
+      "2026-05-15": 66,
+      "2026-06-30": 22
     }
   },
   {
@@ -99,21 +102,22 @@
     "slug": "authentication-api",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
     "time": 452,
-    "timeDay": 392,
-    "timeWeek": 405,
-    "timeMonth": 563,
-    "timeYear": 474,
+    "timeDay": 411,
+    "timeWeek": 408,
+    "timeMonth": 559,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2025-07-07": 300,
       "2025-10-03": 18,
       "2026-05-15": 66,
       "2026-05-17": 30,
-      "2026-06-03": 47
+      "2026-06-03": 47,
+      "2026-06-30": 17
     }
   }
 ]
