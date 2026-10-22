@@ -29,17 +29,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cloud-platform",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 433,
     "timeDay": 416,
     "timeWeek": 439,
     "timeMonth": 437,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 26,
+      "2026-05-15": 67,
+      "2026-06-30": 32
+    }
   },
   {
     "name": "Cyscale API",
@@ -47,17 +51,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cyscale.com.ico",
     "slug": "cyscale-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.82%",
     "time": 218,
     "timeDay": 349,
     "timeWeek": 361,
     "timeMonth": 344,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 26,
+      "2026-05-15": 66,
+      "2026-05-16": 241,
+      "2026-05-17": 563,
+      "2026-06-03": 48,
+      "2026-06-30": 27
+    }
   },
   {
     "name": "GraphQL API",
@@ -87,16 +98,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.cyscale.com.ico",
     "slug": "authentication-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 458,
     "timeDay": 424,
     "timeWeek": 427,
     "timeMonth": 410,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-15": 66,
+      "2026-05-17": 30,
+      "2026-06-03": 47,
+      "2026-06-30": 17
+    }
   }
 ]
